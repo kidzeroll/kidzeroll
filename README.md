@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kidzeroll
-- 👀 I’m interested in Mobile Programing
-- 🌱 I’m currently learning Mobile App
+- 👀 I’m interested in Mobile Programing and Web Developer
+- 🌱 I’m currently learning Mobile App and Web App
 - 💞️ I’m looking to collaborate with everybody
 - 📫 How to reach me ...
 
