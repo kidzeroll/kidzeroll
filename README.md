@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Muhammad Haykal</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -10,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@kidz.eroll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kidz.eroll" height="30" width="40" /></a>
+<a href="https://instagram.com/kidz.eroll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kidz.eroll" height="30" width="40" /></a>
 <a href="https://discord.gg/kidzeroll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kidzeroll" height="30" width="40" /></a>
 </p>
 
